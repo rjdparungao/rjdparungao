@@ -1,8 +1,7 @@
 # Hi there, I'm Rafael 👋
 
-🎓 **BSIT Candidate for Graduation – October 2025**  
-💻 **Aspiring Software Developer** | Backend & API Development | Frontend Enthusiast  
-🌍 Based in Quezon City, Philippines  
+🎓 **BSIT**  
+💻 **Software Developer**
 📩 **Email:** rafaeeeljoar@gmail.com  
 🌐 **Portfolio:** [rjdparungao.github.io/web-portfolio](http://rjdparungao.github.io/web-portfolio)  
 
